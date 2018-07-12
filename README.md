@@ -50,7 +50,7 @@ The following keys also control the Debugger:
 | F11       | Step over         |
 | Shift+F11 | Step into         |
 
-A simpler alternative to the **Build** command in ***Sublime Text*** is the **Run Project** command in the **Corona Editor** menu (or Super+F10).  It doesn't have all the bells and whistles of the build system but it is quick and easy.  It is also better at finding your project's `main.lua` if you aren't using ***Sublime Text***'s projects.  Super+B (usually bound to the **Build** command) is now bound to the **Run Project** command for Corona Lua files. 
+A simpler alternative to the **Build** command in ***Sublime Text*** is the **Run Project** command in the **Corona Editor** menu (or Super+F10).  It doesn't have all the bells and whistles of the build system but it is quick and easy.  It is also better at finding your project's `main.lua` if you aren't using ***Sublime Text***'s projects.  Super+shift+x is now bound to the **Run Project** command for Corona Lua files. 
 
 On OS X, if you install Daily Builds of Corona in **/Applications** without changing the default name, it will use the highest numbered (most recent) Daily Build to run the project (to change this behavior, see `corona_sdk_simulator_path` below).
 
